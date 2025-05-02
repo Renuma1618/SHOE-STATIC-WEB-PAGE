@@ -6,7 +6,7 @@ Built a two-column layout using Flexbox (image on the left, details on the right
 
 Added product information: title, price (with discount), sizes, and color options
 
-Styled UI elements like buttons, text, and color circles using CSS
+Styled UI elements like  text, and color circles using CSS
 
 Used a background image for better visual appearance
 
